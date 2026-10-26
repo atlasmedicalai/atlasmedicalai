@@ -4,30 +4,30 @@
 <p align="center">
   <a href="https://www.atlasmedical.ai/"><img src="https://img.shields.io/badge/Status-50_Years_of_Clinical_Excellence-brightgreen?style=flat-square" alt="Status" /></a>
   <a href="mailto:atlas@atlasmedical.ae"><img src="https://img.shields.io/badge/Response_Time-%3C_24_Hours-orange?style=flat-square" alt="Response Time" /></a>
-  <a href="tel:+97142554522"><img src="https://img.shields.io/badge/Phone-%2B971_42554522-blue?style=flat-square" alt="Phone" /></a>
+  <a href="tel:+16472687245"><img src="https://img.shields.io/badge/Phone-%2B971_42554522-blue?style=flat-square" alt="Phone" /></a>
 </p>
 
 ---
 
 ## 🏥 About Atlas Medical LLC
 
-Established in **1975**, Atlas Medical LLC is a trusted pioneer and leading healthcare solutions provider in the UAE and GCC region[cite: 12]. With 50 years of clinical excellence, we deliver cutting-edge medical technologies, smart hospital infrastructure, and AI-driven clinical solutions to empower healthcare providers and transform patient care[cite: 12].
+Established in **1975**, Atlas Medical LLC is a trusted pioneer and leading healthcare solutions provider in the UAE and GCC region. With 50 years of clinical excellence, we deliver cutting-edge medical technologies, smart hospital infrastructure, and AI-driven clinical solutions to empower healthcare providers and transform patient care.
 
 ---
 
 ## 🛠️ Featured Healthcare Solutions
 
-* 🏥 **[Smart Patient Room Solutions](https://www.atlasmedical.ai/smart-patient-room-solutions)** – Advanced patient monitoring, digital touchscreens, and modern smart hospital room integration[cite: 13].
-* 💻 **[Enterprise Imaging Solutions](https://www.atlasmedical.ai/enterprise-imaging-solutions)** – Next-gen radiology, PACS/VNA, and medical informatics to bridge gaps in modern healthcare IT[cite: 14].
-* 📡 **[Remote Patient Monitoring](https://www.atlasmedical.ai/remote-patient-monitoring)** – Clinical wearables and chronic disease management solutions for continuous patient care across UAE facilities[cite: 15].
-* 🤖 **[Clinical AI Solutions](https://www.atlasmedical.ai/clinical-ai-solutions)** – Predictive analytics, AI-assisted workflows, and advanced hospital intelligence systems[cite: 16].
+* 🏥 **[Smart Patient Room Solutions](https://www.atlasmedical.ai/smart-patient-room-solutions)** – Advanced patient monitoring, digital touchscreens, and modern smart hospital room integration.
+* 💻 **[Enterprise Imaging Solutions](https://www.atlasmedical.ai/enterprise-imaging-solutions)** – Next-gen radiology, PACS/VNA, and medical informatics to bridge gaps in modern healthcare IT.
+* 📡 **[Remote Patient Monitoring](https://www.atlasmedical.ai/remote-patient-monitoring)** – Clinical wearables and chronic disease management solutions for continuous patient care across UAE facilities.
+* 🤖 **[Clinical AI Solutions](https://www.atlasmedical.ai/clinical-ai-solutions)** – Predictive analytics, AI-assisted workflows, and advanced hospital intelligence systems.
 
 ---
 
 ## 🎯 Core Strengths & Legacy
 
-* **🏛️ 50 Years of Excellence:** Half a century of trusted partnership with major hospitals and healthcare institutions in the GCC[cite: 12].
-* **🤝 Strategic Partnerships:** Collaborating with world-class global medical brands and technology innovators[cite: 12].
+* **🏛️ 50 Years of Excellence:** Half a century of trusted partnership with major hospitals and healthcare institutions in the GCC.
+* **🤝 Strategic Partnerships:** Collaborating with world-class global medical brands and technology innovators.
 * **⚙️ Comprehensive Support:** End-to-end medical device distribution, installation, calibration, and maintenance services.
 
 ---
